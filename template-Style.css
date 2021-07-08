@@ -1,0 +1,45 @@
+@media only screen and (min-width: 800px) {
+  #banner-mobile {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #banner {
+    display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  #description-column div {
+    margin: auto;
+  }
+}
+
+@media (max-width: 600px) {
+  #attention-column {
+  }
+}
+
+@media (max-width: 600px) {
+  #star-left {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #star-right {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  #sofort-text {
+    color: red;
+    border: dotted;
+  }
+}
+
+div {
+}
+
