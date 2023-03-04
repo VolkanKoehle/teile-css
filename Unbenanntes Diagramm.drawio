@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T15:12:13.119Z" agent="5.0 (X11)" etag="rCdR6PU7ebm7ioZhKUft" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T15:14:04.981Z" agent="5.0 (X11)" etag="l5LnRnQWI0DWn5FcinlU" version="21.0.2" type="github">
   <diagram name="Seite-1" id="wkQMpT6iIEVjJQEx3GDW">
     <mxGraphModel dx="880" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="ZHiQiYsTTJC8IIRNRTqC-15" value="Kalendar einsehen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="240" width="96" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZHiQiYsTTJC8IIRNRTqC-18" value="&lt;div&gt;Verwaltung&lt;/div&gt;(Hochzeit, Mitarbeiter etc.)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZHiQiYsTTJC8IIRNRTqC-18" value="&lt;div&gt;Hochzeit und Persöhnliche &lt;br&gt;&lt;/div&gt;&lt;div&gt;Informationen ansehen&lt;br&gt; &lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZHiQiYsTTJC8IIRNRTqC-19" value="Einloggen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
